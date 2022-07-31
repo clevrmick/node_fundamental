@@ -1,0 +1,1 @@
+this is the asychronous version to read and write txt
